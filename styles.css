@@ -1,0 +1,16 @@
+body {
+    background: #f2efea;
+}
+
+#main-box {
+    background: #FFF;
+}
+
+.general-box {
+    background: rgb(255, 255, 255);
+    border-width: 22px;
+    border-color: black;
+    border-radius: 5px;
+    margin: 5px 40px 20px;
+    padding: 5px 20px;
+}
