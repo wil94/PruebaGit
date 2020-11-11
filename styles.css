@@ -2,6 +2,12 @@ body {
     background: #f2efea;
 }
 
+a, p {
+    text-decoration: none;
+    color: #707070;
+    margin: 5px 40px 20px;
+}
+
 #main-box {
     background: #FFF;
 }
